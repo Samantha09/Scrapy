@@ -2,6 +2,7 @@
 import scrapy
 from scrapy.linkextractors import LinkExtractor
 from scrapy.spiders import CrawlSpider, Rule
+from bmw.items import BmwItem
 
 
 class Bmw52Spider(CrawlSpider):
@@ -16,8 +17,10 @@ class Bmw52Spider(CrawlSpider):
     def parse_page(self, response):
         category = response.xpath("//div[@class='uibox']/div/text()").get()
         srcs = response.xpath("//div[contains(@class, 'uibox')]/ul/li//img/@src").getall()
-        print("="*50)
-        print(category)
+        urls = list(map(lambda x: "https:" + x.replace("t_", ""), srcs))
+        item = BmwItem(category=category, image_urls=urls)
+        yield item
+
 
     def test_spider(self, response):
         pass
