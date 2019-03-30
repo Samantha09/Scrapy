@@ -10,4 +10,5 @@ import scrapy
 
 class BmwItem(scrapy.Item):
     category = scrapy.Field()
-    urls = scrapy.Field()
+    image_urls = scrapy.Field()
+    images = scrapy.Field()

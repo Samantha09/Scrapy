@@ -1,2 +1,2 @@
 from scrapy import cmdline
-cmdline.execute("scrapy crawl bmw5".split())
+cmdline.execute("scrapy crawl bmw52".split())

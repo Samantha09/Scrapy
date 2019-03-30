@@ -12,8 +12,8 @@ class Bmw5Spider(scrapy.Spider):
         uiboxes = response.xpath("//div[@class='uibox']")[1:]
         for uibox in uiboxes:
             category = uibox.xpath("./div[@class='uibox-title']/a/text()").get()
-            urls = uibox.xpath(".//ul/li/a/img/@src").getall()
-            urls = list(map(lambda url: "https:" + url, urls))
-            item = {"category": category, "urls": urls}
+            image_urls = uibox.xpath(".//ul/li/a/img/@src").getall()
+            image_urls = list(map(lambda url: "https:" + url, image_urls))
+            item = BmwItem(category=category, image_urls=image_urls)
             yield item
 

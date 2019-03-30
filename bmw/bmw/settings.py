@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+import os
 
 # Scrapy settings for bmw project
 #
@@ -65,9 +66,10 @@ DEFAULT_REQUEST_HEADERS = {
 
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
-#ITEM_PIPELINES = {
-#    'bmw.pipelines.BmwPipeline': 300,
-#}
+ITEM_PIPELINES = {
+   # 'bmw.pipelines.BmwPipeline': 300,
+   'bmw.pipelines.BMWImagesPipeline': 1,
+}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://doc.scrapy.org/en/latest/topics/autothrottle.html
@@ -89,3 +91,6 @@ DEFAULT_REQUEST_HEADERS = {
 #HTTPCACHE_DIR = 'httpcache'
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
+
+# 图片下载的路径， 供images pipeline使用
+IMAGES_STORE = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'images')
