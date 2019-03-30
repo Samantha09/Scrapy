@@ -14,7 +14,7 @@ class RenrenSpider(scrapy.Spider):
             "email": '15692036272',
             "password": "951218/lucky",
         }
-        request = scrapy.FormRequest(url, formdata=data, callback=self.parse_page)
+        request = scrapy.FormRequest(url, formdata=data, callback=self.parse_page)  # 发送post请求，推荐使用scrapy.FormRequest
         yield request
 
     def parse_page(self, response):
