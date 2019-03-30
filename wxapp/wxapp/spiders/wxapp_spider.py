@@ -25,3 +25,5 @@ class WxappSpiderSpider(CrawlSpider):
 
         item = WxappItem(title=title, author=author, pub_time=pub_time, article_content=article_content)
         yield item
+
+# 1213
