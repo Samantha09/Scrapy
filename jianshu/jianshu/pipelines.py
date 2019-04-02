@@ -51,7 +51,7 @@ class JianshuTwistedPipeline(object):
             'host': '127.0.0.1',
             'port': 3306,
             'user': 'root',
-            'password': '951218/lucky',
+            'password': '123456',
             'database': 'jianshu',
             'charset': 'utf8',
             'cursorclass': cursors.DictCursor

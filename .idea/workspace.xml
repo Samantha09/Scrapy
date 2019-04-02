@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="95369d19-e0e3-43d8-85c6-9f299b2d99dd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jianshu/.idea/jianshu.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jianshu/.idea/jianshu.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jianshu/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jianshu/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jianshu/requirement.txt" beforeDir="false" afterPath="$PROJECT_DIR$/jianshu/requirement.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,49 +20,7 @@
     <SUITE FILE_PATH="coverage/scrapy$start__1_.coverage" NAME="start (1) Coverage Results" MODIFIED="1553901150208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxapp" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bmw/bmw/spiders/bmw5.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-              <folding>
-                <element signature="e#24#37#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bmw/bmw/spiders/bmw52.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-              <folding>
-                <element signature="e#24#37#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/boss/boss/middlewares.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1311">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-              <folding>
-                <element signature="e#168#181#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/useragent_demo/useragent_demo/middlewares.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -133,18 +94,13 @@
         <subPane>
           <expand>
             <path>
-              <item name="scrapy框架" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scrapy框架" type="462c0819:PsiDirectoryNode" />
+              <item name="Scrapy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scrapy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="scrapy框架" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scrapy框架" type="462c0819:PsiDirectoryNode" />
-              <item name="bmw" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scrapy框架" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scrapy框架" type="462c0819:PsiDirectoryNode" />
-              <item name="boss" type="462c0819:PsiDirectoryNode" />
+              <item name="Scrapy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scrapy" type="462c0819:PsiDirectoryNode" />
+              <item name="jianshu" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -153,11 +109,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/jianshu" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -299,6 +256,8 @@
       <workItem from="1553958088118" duration="508000" />
       <workItem from="1554073022699" duration="1533000" />
       <workItem from="1554115324480" duration="690000" />
+      <workItem from="1554203326841" duration="24000" />
+      <workItem from="1554204243564" duration="878000" />
     </task>
     <task id="LOCAL-00001" summary="v1">
       <created>1553919822939</created>
@@ -381,12 +340,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50645000" />
+    <option name="totallyTimeSpent" value="51547000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1005" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20559742" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21226928" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -399,7 +358,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32889965" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.50053823" side_tool="true" visible="true" weight="0.32848486" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053823" side_tool="true" visible="true" weight="0.33167082" />
       <window_info anchor="bottom" x="0" y="40" width="1920" height="965" id="Terminal" maximized="true" order="11" sideWeight="0.4994618" weight="0.5418182" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32969698" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -444,146 +403,20 @@
     <option name="LAST_COMMIT_MESSAGE" value="v5" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/qsbk/duanzi.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/qsbk/qsbk/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/qsbk/qsbk/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wxapp/wxjc.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5582" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/qsbk/duanzi.json" />
+    <entry file="file://$PROJECT_DIR$/qsbk/qsbk/items.py" />
+    <entry file="file://$PROJECT_DIR$/qsbk/qsbk/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/wxapp/wxjc.json" />
     <entry file="file://$PROJECT_DIR$/renren.py" />
-    <entry file="file://$PROJECT_DIR$/wxapp/start.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/renren_login/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/scrapy/crawler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="80" selection-start-line="80" selection-end-line="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/renren_login/renren.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="265" column="61" lean-forward="true" selection-start-line="264" selection-end-line="265" selection-end-column="61" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#li#6;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#li#8;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#span#0;n#a#0;n#li#9;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#2;n#div#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#2;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#2;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#3;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#23820#23826#1" expanded="true" />
-            <element signature="e#24264#24270#1" expanded="true" />
-            <element signature="e#24782#24788#1" expanded="true" />
-            <element signature="e#25604#25610#1" expanded="true" />
-            <element signature="e#26118#26124#1" expanded="true" />
-            <element signature="e#26237#26243#1" expanded="true" />
-            <element signature="e#26742#26748#1" expanded="true" />
-            <element signature="e#26862#26868#1" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#2;n#div#3;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#29128#29134#1" expanded="true" />
-            <element signature="e#29181#29187#0" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#1;n#div#4;n#div#3;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#32337#32343#1" expanded="true" />
-            <element signature="e#32390#32396#0" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#2;n#div#4;n#div#3;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#34614#34620#1" expanded="true" />
-            <element signature="e#34695#34701#1" expanded="true" />
-            <element signature="e#35262#35268#0" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#3;n#div#4;n#div#3;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#38188#38194#1" expanded="true" />
-            <element signature="e#38269#38275#1" expanded="true" />
-            <element signature="e#38836#38842#0" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#4;n#div#4;n#div#3;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#41710#41716#1" expanded="true" />
-            <element signature="e#41791#41797#1" expanded="true" />
-            <element signature="e#42358#42364#0" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#5;n#div#4;n#div#3;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#45804#45810#1" expanded="true" />
-            <element signature="e#45857#45863#0" expanded="true" />
-            <element signature="n#style#0;n#a#1;n#div#2;n#div#6;n#div#4;n#div#3;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#5;n#div#6;n#div#4;n#div#3;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#49784#49790#1" expanded="true" />
-            <element signature="e#49963#49969#0" expanded="true" />
-            <element signature="n#style#0;n#a#1;n#div#2;n#div#7;n#div#4;n#div#3;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#5;n#div#7;n#div#4;n#div#3;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#53928#53934#1" expanded="true" />
-            <element signature="e#54622#54628#0" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#8;n#div#4;n#div#3;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#58084#58090#1" expanded="true" />
-            <element signature="e#58653#58659#0" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#9;n#div#4;n#div#3;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#5;n#div#2;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#span#7;n#p#5;n#div#2;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#span#8;n#p#5;n#div#2;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#64414#64420#0" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#span#11;n#p#5;n#div#2;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/douban_login/douban_login/spiders/douban.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="63" selection-start-line="7" selection-start-column="63" selection-end-line="7" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/renren_login/renren_login/spiders/renren.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="82" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/renren_login/scrapy.cfg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/renren_login/renren_login/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="44" column="17" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/renren_login/start.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/wxapp/start.py" />
+    <entry file="file://$PROJECT_DIR$/renren_login/__init__.py" />
+    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/scrapy/crawler.py" />
+    <entry file="file://$PROJECT_DIR$/renren_login/renren.html" />
+    <entry file="file://$PROJECT_DIR$/douban_login/douban_login/spiders/douban.py" />
+    <entry file="file://$PROJECT_DIR$/renren_login/renren_login/spiders/renren.py" />
+    <entry file="file://$PROJECT_DIR$/renren_login/scrapy.cfg" />
+    <entry file="file://$PROJECT_DIR$/renren_login/renren_login/settings.py" />
+    <entry file="file://$PROJECT_DIR$/renren_login/start.py" />
     <entry file="file://$PROJECT_DIR$/bmw/images/重要特点/GFQ839.jpg" />
     <entry file="file://$PROJECT_DIR$/bmw/images/重要特点/ztKs285.jpg" />
     <entry file="file://$PROJECT_DIR$/bmw/images/重要特点/ChsEnVyOH-mAArbvAAMCsyLHeec860.jpg" />
@@ -607,192 +440,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/scrapy/middleware.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="64" selection-start-line="64" selection-end-line="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/scrapy/pipelines/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/scrapy/core/scraper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="187" selection-start-line="187" selection-end-line="187" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/twisted/internet/defer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="311" selection-start-line="311" selection-end-line="311" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/twisted/internet/task.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="671" selection-start-line="671" selection-end-line="671" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/twisted/internet/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="1275" selection-start-line="1275" selection-end-line="1275" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/scrapy/utils/defer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/scrapy/utils/python.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="121" selection-start-line="121" selection-end-line="121" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/scrapy/utils/request.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="61" selection-start-line="61" selection-end-line="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/scrapy/pipelines/media.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="96" selection-start-line="96" selection-end-line="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/scrapy/pipelines/files.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="370" selection-start-line="370" selection-end-line="370" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bmw/bmw/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bmw/bmw/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11">
-          <caret line="70" column="35" selection-start-line="70" selection-start-column="35" selection-end-line="70" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/scrapy/pipelines/images.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="162" column="14" lean-forward="true" selection-start-line="162" selection-start-column="14" selection-end-line="162" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wxapp/wxapp/spiders/wxapp_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="18" column="64" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="64" />
-          <folding>
-            <element signature="e#24#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wxapp/wxapp/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="537">
-          <caret line="61" column="15" selection-start-line="61" selection-start-column="15" selection-end-line="61" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wxapp/wxapp/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wxapp/wxapp/middlewares.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wxapp/wxapp/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bmw/bmw/middlewares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1224" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bmw/start.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bmw/bmw/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="565">
-          <caret line="60" column="55" lean-forward="true" selection-start-line="60" selection-start-column="55" selection-end-line="60" selection-end-column="55" />
-          <folding>
-            <element signature="e#193#202#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bmw/bmw/spiders/bmw5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-          <folding>
-            <element signature="e#24#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bmw/bmw/spiders/bmw52.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#24#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/useragent_demo/useragent_demo/middlewares.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/boss/boss/middlewares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1311">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#168#181#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/scrapy/middleware.py" />
+    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/scrapy/pipelines/__init__.py" />
+    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/scrapy/core/scraper.py" />
+    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/twisted/internet/defer.py" />
+    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/twisted/internet/task.py" />
+    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/twisted/internet/base.py" />
+    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/scrapy/utils/defer.py" />
+    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/scrapy/utils/python.py" />
+    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/scrapy/utils/request.py" />
+    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/scrapy/pipelines/media.py" />
+    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/scrapy/pipelines/files.py" />
+    <entry file="file://$PROJECT_DIR$/bmw/bmw/items.py" />
+    <entry file="file://$PROJECT_DIR$/bmw/bmw/settings.py" />
+    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/scrapy/pipelines/images.py" />
+    <entry file="file://$PROJECT_DIR$/wxapp/wxapp/spiders/wxapp_spider.py" />
+    <entry file="file://$PROJECT_DIR$/wxapp/wxapp/settings.py" />
+    <entry file="file://$PROJECT_DIR$/wxapp/wxapp/pipelines.py" />
+    <entry file="file://$PROJECT_DIR$/wxapp/wxapp/middlewares.py" />
+    <entry file="file://$PROJECT_DIR$/wxapp/wxapp/items.py" />
+    <entry file="file://$PROJECT_DIR$/bmw/bmw/middlewares.py" />
+    <entry file="file://$PROJECT_DIR$/bmw/start.py" />
+    <entry file="file://$PROJECT_DIR$/bmw/bmw/pipelines.py" />
+    <entry file="file://$PROJECT_DIR$/bmw/bmw/spiders/bmw5.py" />
+    <entry file="file://$PROJECT_DIR$/bmw/bmw/spiders/bmw52.py" />
+    <entry file="file://$PROJECT_DIR$/useragent_demo/useragent_demo/middlewares.py" />
+    <entry file="file://$PROJECT_DIR$/boss/boss/middlewares.py" />
   </component>
 </project>
