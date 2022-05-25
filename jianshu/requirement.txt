@@ -32,7 +32,7 @@ pycrypto==2.6.1
 PyDispatcher==2.0.5
 pygobject==3.28.2
 PyHamcrest==1.9.0
-PyJWT==1.5.3
+PyJWT==2.4.0
 pyOpenSSL==19.0.0
 pysmbc==1.0.15.6
 pyxdg==0.25
