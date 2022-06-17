@@ -39,7 +39,7 @@ pyxdg==0.25
 queuelib==1.5.0
 requests==2.18.4
 scandir==1.7
-Scrapy==1.6.0
+Scrapy==2.6.1
 SecretStorage==2.3.1
 service-identity==18.1.0
 six==1.12.0
