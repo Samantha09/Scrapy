@@ -1,7 +1,7 @@
 sn1crypto==0.24.0
 attrs==19.1.0
 Automat==0.7.0
-certifi==2018.1.18
+certifi==2022.12.7
 cffi==1.12.2
 chardet==3.0.4
 colorama==0.3.7
